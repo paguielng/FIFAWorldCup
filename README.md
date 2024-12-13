@@ -83,6 +83,7 @@
     ├── style.css         <-- Page CSS pour la Coupe du Monde 2018
 /2022-qatar/              <-- Dossier pour la Coupe du Monde 2022
     ├── index.html        <-- Page HTML pour la Coupe du Monde 2022
+    ├── style.css         <-- Page CSS pour la Coupe du Monde 2022
 ```
 
 ## Utilisation
