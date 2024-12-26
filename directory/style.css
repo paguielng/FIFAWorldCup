@@ -200,3 +200,9 @@ body {
   filter: invert(1) brightness(0.85);
   margin: 1ch auto;
 }
+
+.animated-link {
+  position: relative;
+  text-decoration: none;
+  color: #ffffd4; /* Couleur mauve du texte */
+}
