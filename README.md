@@ -84,9 +84,9 @@
 /2022-qatar/              <-- Dossier pour la Coupe du Monde 2022
     ├── index.html        <-- Page HTML pour la Coupe du Monde 2022
     ├── style.css         <-- Page CSS pour la Coupe du Monde 2022
-/2026-amerique/           <-- Dossier pour la Coupe du Monde 2022
-    ├── index.html        <-- Page HTML pour la Coupe du Monde 2022 # 11 juin au 19 juillet 2026 et sera organisée conjointement par les États-Unis, le Canada et le Mexique.
-    ├── style.css         <-- Page CSS pour la Coupe du Monde 2022  # 11 juin au 19 juillet 2026 et sera organisée conjointement par les États-Unis, le Canada et le Mexique. 
+/2026-amerique/           <-- Dossier pour la Coupe du Monde 2022  # 11 juin au 19 juillet 2026 et sera organisée conjointement par les États-Unis, le Canada et le Mexique.
+    ├── index.html        <-- Page HTML pour la Coupe du Monde 2022
+    ├── style.css         <-- Page CSS pour la Coupe du Monde 2022 
 ```
 
 ## Utilisation
