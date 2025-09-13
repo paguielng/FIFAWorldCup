@@ -93,4 +93,4 @@
 
 1. Clonez le dépôt sur votre machine locale :
    ```bash
-   git clone https://github.com/paguielng/FIFA_Odyssey.git
+   git clone https://github.com/paguielng/FIFAWorldCup.git
