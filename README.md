@@ -1,4 +1,4 @@
-# FIFA Odyssey®
+# FIFA Odyssey® 
 
 **FIFA Odyssey** est un voyage captivant à travers l’histoire des Coupes du Monde de la FIFA, de 1930 à nos jours. Ce projet explore les moments emblématiques, les matchs légendaires, et les champions inoubliables de chaque tournoi.
 
